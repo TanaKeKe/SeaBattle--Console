@@ -52,4 +52,5 @@ Sea Battle là một trò chơi dành cho hai người chơi. Trò chơi đượ
 ## Ảnh demo
 ![Alt text](<Screenshot 2023-12-04 161812.png>)
 
-
+## Video demo
+Link : [SeaBattle](https://drive.google.com/drive/folders/1O6hWz2GQAluWvoAK1B48xQUL-xmL6wSQ)
